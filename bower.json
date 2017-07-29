@@ -1,0 +1,21 @@
+{
+    "name": "perform_afrik",
+    "version": "1.0.0",
+    "description": "Receipt management",
+    "license": "MIT",
+    "dependencies": {
+        "requirejs": "latest",
+        "jquery": ">=1.11.1",
+        "jquery-ui-bootstrap": "latest",
+        "datetimepicker": "latest",
+        "datatables": "latest",
+        "datatables-plugins": "latest",
+        "bootstrap": "latest",
+        "datatables-bootstrap3": "latest",
+        "angular": "latest",
+        "angular-mocks": "~1.2.x",
+        "angular-route": "~1.2.x",
+        "angular-resource": "~1.2.x",
+        "angular-animate": "~1.2.x"
+    }
+}
